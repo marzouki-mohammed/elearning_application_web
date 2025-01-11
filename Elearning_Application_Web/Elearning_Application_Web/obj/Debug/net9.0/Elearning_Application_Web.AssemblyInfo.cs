@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Elearning_Application_Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+182bab8544097c69ca0a84349c8c7e82d2a163ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3f8380f4d8295b5e93e8ee0974a7f64393189b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Elearning_Application_Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Elearning_Application_Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
