@@ -35,8 +35,8 @@
         -webkit-box-shadow: 0 1px 5px 0 rgba(35, 181, 185, 0.15);
         box-shadow: 0 1px 5px 0 rgba(35, 181, 185, 0.15);
         background-color: #fff;
-        -webkit-animation: zoom 2000ms infinite ease;
-        animation: zoom 2000ms infinite ease;
+        -webkit-animation: zoom 3000ms infinite ease;
+        animation: zoom 3000ms infinite ease;
         -webkit-transition: .6s;
         -o-transition: .6s;
         transition: .6s;
@@ -81,3 +81,4 @@
         opacity: 0;
     }
 }
+

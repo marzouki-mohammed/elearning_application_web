@@ -19,7 +19,6 @@ C:\Users\hp\elearning_application_web\Elearning_Application_Web\Elearning_Applic
 C:\Users\hp\elearning_application_web\Elearning_Application_Web\Elearning_Application_Web\obj\Debug\net9.0\scopedcss\bundle\Elearning_Application_Web.styles.css
 C:\Users\hp\elearning_application_web\Elearning_Application_Web\Elearning_Application_Web\obj\Debug\net9.0\scopedcss\projectbundle\Elearning_Application_Web.bundle.scp.css
 C:\Users\hp\elearning_application_web\Elearning_Application_Web\Elearning_Application_Web\obj\Debug\net9.0\compressed\2hb18geb3l-qt7a46yniy.gz
-C:\Users\hp\elearning_application_web\Elearning_Application_Web\Elearning_Application_Web\obj\Debug\net9.0\compressed\imul8xh9rf-cc1m6dbxgh.gz
 C:\Users\hp\elearning_application_web\Elearning_Application_Web\Elearning_Application_Web\obj\Debug\net9.0\compressed\tsyi1fz65h-b9sayid5wm.gz
 C:\Users\hp\elearning_application_web\Elearning_Application_Web\Elearning_Application_Web\obj\Debug\net9.0\compressed\z9dfgml62o-61n19gt1b8.gz
 C:\Users\hp\elearning_application_web\Elearning_Application_Web\Elearning_Application_Web\obj\Debug\net9.0\compressed\36mnriqmuv-bg9mhvficy.gz
@@ -101,3 +100,4 @@ C:\Users\hp\elearning_application_web\Elearning_Application_Web\Elearning_Applic
 C:\Users\hp\elearning_application_web\Elearning_Application_Web\Elearning_Application_Web\obj\Debug\net9.0\Elearning_Application_Web.pdb
 C:\Users\hp\elearning_application_web\Elearning_Application_Web\Elearning_Application_Web\obj\Debug\net9.0\Elearning_Application_Web.genruntimeconfig.cache
 C:\Users\hp\elearning_application_web\Elearning_Application_Web\Elearning_Application_Web\obj\Debug\net9.0\ref\Elearning_Application_Web.dll
+C:\Users\hp\elearning_application_web\Elearning_Application_Web\Elearning_Application_Web\obj\Debug\net9.0\compressed\imul8xh9rf-pj2yfnw18p.gz
