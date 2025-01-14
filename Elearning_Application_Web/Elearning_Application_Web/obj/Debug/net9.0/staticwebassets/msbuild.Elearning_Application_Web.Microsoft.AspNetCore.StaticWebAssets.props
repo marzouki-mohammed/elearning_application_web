@@ -30,8 +30,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>cc1m6dbxgh</Fingerprint>
-      <Integrity>tEVsP0+ZMifut2+7RZvttjzcsuk3zhjg5YJ7J1mhAgs=</Integrity>
+      <Fingerprint>pj2yfnw18p</Fingerprint>
+      <Integrity>ZaxJRob9na4iXvPRm7lysfRCVheAlAEW1gqlHa7oAvs=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Home\preloader-style.css'))</OriginalItemSpec>
