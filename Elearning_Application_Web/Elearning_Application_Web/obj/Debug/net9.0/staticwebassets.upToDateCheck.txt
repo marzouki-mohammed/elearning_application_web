@@ -68,6 +68,7 @@ wwwroot\css\Home\IndexStyleSheet.css
 wwwroot\css\Home\preloader-style.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\HomeImages\ic_github.png
 wwwroot\HomeImages\loder.png
 wwwroot\HomeImages\logo.svg
 wwwroot\HomeImages\logo_img.PNG
@@ -133,3 +134,4 @@ wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\scss\main.scss

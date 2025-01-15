@@ -7,8 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v9.0": {
       "Elearning_Application_Web/1.0.0": {
+        "dependencies": {
+          "LibSassHost": "1.5.0"
+        },
         "runtime": {
           "Elearning_Application_Web.dll": {}
+        }
+      },
+      "AdvancedStringBuilder/0.1.1": {
+        "runtime": {
+          "lib/netstandard2.0/AdvancedStringBuilder.dll": {
+            "assemblyVersion": "0.1.1.0",
+            "fileVersion": "0.1.1.0"
+          }
+        }
+      },
+      "LibSassHost/1.5.0": {
+        "dependencies": {
+          "AdvancedStringBuilder": "0.1.1"
+        },
+        "runtime": {
+          "lib/netstandard2.1/LibSassHost.dll": {
+            "assemblyVersion": "1.5.0.0",
+            "fileVersion": "1.5.0.0"
+          }
         }
       }
     }
@@ -18,6 +40,20 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "AdvancedStringBuilder/0.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-32IrlspOA59ewotQ4tlKP27QhKxMKGB7oncqlwVHn/hAz+j/r3HvLr6/W9ni9Mnyktlcg6kt7QZS8rEgur1+4Q==",
+      "path": "advancedstringbuilder/0.1.1",
+      "hashPath": "advancedstringbuilder.0.1.1.nupkg.sha512"
+    },
+    "LibSassHost/1.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ymRT6y3rjy14xUU2Dl0HbG/TsSUyRNijUBDSCoTIx/zjczGTwxH9edTkZZxp9OF9uixb9BosGcaefNt+ajYx2w==",
+      "path": "libsasshost/1.5.0",
+      "hashPath": "libsasshost.1.5.0.nupkg.sha512"
     }
   }
 }

@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "x5JISWbzITc=",
+  "dgSpecHash": "igUr7V4UpTc=",
   "success": true,
   "projectFilePath": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\Elearning_Application_Web.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\advancedstringbuilder\\0.1.1\\advancedstringbuilder.0.1.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\libsasshost\\1.5.0\\libsasshost.1.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\Elearning_Application_Web.wzbywwq2im.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\ic_github.png",
+      "PackagePath": "staticwebassets\\HomeImages\\ic_github.png"
+    },
+    {
       "Id": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\loder.png",
       "PackagePath": "staticwebassets\\HomeImages\\loder.png"
     },
@@ -279,6 +283,10 @@
     {
       "Id": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\scss\\main.scss",
+      "PackagePath": "staticwebassets\\scss\\main.scss"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Elearning_Application_Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
