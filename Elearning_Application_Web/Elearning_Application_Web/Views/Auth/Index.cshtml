@@ -3,3 +3,97 @@
 *@
 @{
 }
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Auth";
+    var role = ViewData["Role"] as string;
+}
+
+@section VendorStyles
+{
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/WebApplication1.styles.css" asp-append-version="true" />
+    <!-- Montserrat Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <!-- Material Icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet">
+}
+@section PageStyles {
+    <link rel="stylesheet" href="~/css/Auth/page_auth.css">
+}
+
+
+
+@* ************** Content ************** *@
+@if (!string.IsNullOrEmpty(role))
+{
+    <div class="container-xxl">
+        <div class="authentication-wrapper authentication-basic container-p-y">
+            <div class="authentication-inner">
+                <!-- Register -->
+                <div class="card px-sm-6 px-0">
+                    <div class="card-body">
+                        <!-- Logo -->
+                        <div class="app-brand justify-content-center">
+
+                            <a>
+                                <svg width="145" height="60" xmlns="http://www.w3.org/2000/svg">
+
+                                    <rect x="10" y="15" width="30" height="30" rx="5" ry="5" stroke="black" stroke-width="3" fill="#6930c3" />
+                                    <text x="26" y="37" font-size="20" font-family="Arial" text-anchor="middle" fill="white">C</text>
+
+
+                                    <text x="50" y="37" font-size="25" font-family="Arial" fill="#64dfdf">Codem</text>
+                                </svg>
+                            </a>
+
+                        </div>
+                        <!-- /Logo -->
+                        <h4 class="mb-3">Welcome to Codem! 👋</h4>
+                        @using (Html.BeginForm("login", "Auth", FormMethod.Post))
+                        {
+                            @Html.AntiForgeryToken()
+                            <div class="mb-6">
+                                <label for="email" class="form-label">Email or Username</label>
+                                <input type="text" class="form-control" id="email" name="email" placeholder="Enter your email or username" autofocus>
+                            </div>
+                            <input type="hidden" id="rolee" name="rolee" value=@role />
+
+                            <div class="mb-6 form-password-toggle">
+                                <label class="form-label" for="password">Password</label>
+                                <div class="input-group input-group-merge">
+                                    <input type="password" id="password" class="form-control" name="password" placeholder="&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;" aria-describedby="password" />
+                                    <span class="input-group-text cursor-pointer"><i class="bx bx-hide"></i></span>
+                                </div>
+                            </div>
+
+                            <div class="mb-6" style="padding-top:40px;">
+                                <button class="btn btn-primary d-grid w-100" type="submit">Login</button>
+                            </div>
+                        }
+
+
+                        @if (role == "participant")
+                        {
+                            <div class="mb-8" style="padding-top:20px;padding-bottom:20px;">
+                                <div class="d-flex justify-content-center mt-8">
+
+                                    <a href="/Auth/signUp">
+                                        <span>Create an Account</span>
+                                    </a>
+                                </div>
+                            </div>
+                        }
+
+                    </div>
+                </div>
+                <!-- /Register -->
+            </div>
+        </div>
+    </div>
+}
+else
+{
+    <h1>Role non spécifié.</h1>
+}
+
