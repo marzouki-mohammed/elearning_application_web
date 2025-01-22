@@ -104,4 +104,6 @@ C:\Users\hp\elearning_application_web\Elearning_Application_Web\Elearning_Applic
 C:\Users\hp\elearning_application_web\Elearning_Application_Web\Elearning_Application_Web\bin\Debug\net9.0\LibSassHost.dll
 C:\Users\hp\elearning_application_web\Elearning_Application_Web\Elearning_Application_Web\obj\Debug\net9.0\Elearning_Application_Web.csproj.AssemblyReference.cache
 C:\Users\hp\elearning_application_web\Elearning_Application_Web\Elearning_Application_Web\obj\Debug\net9.0\Elearnin.65FCCFBC.Up2Date
-C:\Users\hp\elearning_application_web\Elearning_Application_Web\Elearning_Application_Web\obj\Debug\net9.0\compressed\2hb18geb3l-poxewf6jwv.gz
+C:\Users\hp\elearning_application_web\Elearning_Application_Web\Elearning_Application_Web\obj\Debug\net9.0\compressed\uojovqfbr3-psh5ixdq59.gz
+C:\Users\hp\elearning_application_web\Elearning_Application_Web\Elearning_Application_Web\obj\Debug\net9.0\compressed\2hb18geb3l-ybn269nacf.gz
+C:\Users\hp\elearning_application_web\Elearning_Application_Web\Elearning_Application_Web\obj\Debug\net9.0\compressed\dtxla0rrvz-rkoxtd4fsj.gz

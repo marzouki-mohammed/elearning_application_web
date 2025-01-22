@@ -5,97 +5,317 @@
     Layout = "_Layout";
     ViewData["Title"] = "Home";
 }
+@section VendorStyles{
+    <!--
+      - google font link
+    -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap"
+          rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet">
+}
 @section PageStyles {
     <link href="~/css/Home/IndexStyleSheet.css" rel="stylesheet" />
 }
 
 
-<footer>
-    <div class="footer-wrappper footer-bg">
-        <!-- Footer Start-->
-        <div class="footer-area footer-padding">
-            <div class="container">
-                <div class="row justify-content-between">
-                    <div class="col-xl-4 col-lg-5 col-md-4 col-sm-6">
-                        <div class="single-footer-caption mb-50">
-                            <div class="single-footer-caption mb-30">
-                                <!-- logo -->
-                                <div class="footer-logo mb-25">
-                                    <a href="/Invite/Index">
-                                        <svg width="145" height="60" xmlns="http://www.w3.org/2000/svg">
-
-                                            <rect x="10" y="15" width="30" height="30" rx="5" ry="5" stroke="black" stroke-width="3" fill="#6930c3" />
-                                            <text x="26" y="37" font-size="20" font-family="Arial" text-anchor="middle" fill="white">C</text>
 
 
-                                            <text x="50" y="37" font-size="25" font-family="Arial" fill="#ffffff">Codem</text>
-                                        </svg>
-                                    </a>
-                                </div>
-                                <div class="footer-tittle">
-                                    <div class="footer-pera">
-                                        <p>The automated process starts as soon as your clothes go into the machine.</p>
-                                    </div>
-                                </div>
-                                <!-- social -->
-                                <div class="footer-social">
-                                    <a href="#"><img class="fab fa-github" src="~/HomeImages/ic_github.png"/></a>
-                                    <a href="https://bit.ly/sai4ull"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                </div>
+<div class="maincontainer">
+    <header>
+        <!-- Header Start -->
+        <div class="header-area header-transparent">
+
+            <div class="container-fluid">
+                <div class="row align-items-center">
+                    <!-- Mobile Menu -->
+                    <div class="col-2 col-sm-1 justify-content-center align-self-center menuBtn">
+                        <button id="open-menu" class="action-btn">
+                            <ion-icon name="menu-outline" class="icone-btn"></ion-icon>
+                        </button>
+                    </div>
+
+
+
+                    <!-- Logo -->
+                    <div class="col-8 col-sm-5 col-lg-2">
+                        <div class="d-flex align-items-center">
+                            <a href="/Home/Index">
+                                <svg width="145" height="60" xmlns="http://www.w3.org/2000/svg">
+
+                                    <rect x="10" y="15" width="30" height="30" rx="5" ry="5" stroke="black" stroke-width="3" fill="#6930c3" />
+                                    <text x="26" y="37" font-size="20" font-family="Arial" text-anchor="middle" fill="white">C</text>
+
+
+                                    <text x="50" y="37" font-size="25" font-family="Arial" fill="#64dfdf">Codem</text>
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+
+                    <!--search-->
+                    <div class="col-2  col-sm-6 col-lg-3" style="text-align: end;">
+                        <button id="search-btn" class="action-btn btnSearch">
+                            <span class="material-symbols-outlined" class="icone-btn">
+                                search
+                            </span>
+                        </button>
+                        <div class="search-600">
+                            <svg class="icon" aria-hidden="true" viewBox="0 0 24 24"><g><path d="M21.53 20.47l-3.66-3.66C19.195 15.24 20 13.214 20 11c0-4.97-4.03-9-9-9s-9 4.03-9 9 4.03 9 9 9c2.215 0 4.24-.804 5.808-2.13l3.66 3.66c.147.146.34.22.53.22s.385-.073.53-.22c.295-.293.295-.767.002-1.06zM3.5 11c0-4.135 3.365-7.5 7.5-7.5s7.5 3.365 7.5 7.5-3.365 7.5-7.5 7.5-7.5-3.365-7.5-7.5z"></path></g></svg>
+                            <input placeholder="Search" type="search" class="input">
+                        </div>
+
+                    </div>
+
+
+                    <!--Menu-->
+                    <div class="col-lg-7">
+                        <div class="d-flex align-items-center justify-content-end">
+                            <!-- Main-menu -->
+                            <div class="d-none d-lg-block">
+                                <nav>
+                                    <ul id="navigation-desk" class="navigation">
+                                        <li class="active"><a href="index.html">Home</a></li>
+                                        <li><a href="courses.html">Courses</a></li>
+                                        <li><a href="about.html">About</a></li>
+
+                                        <li><a href="contact.html">Contact</a></li>
+                                        <!-- Button -->
+                                        <li class="button-header margin-left active account-main">
+                                            <a href="#" class="btn-login" style="display: none;">Join</a>
+                                            <div class="account">
+                                                <div class="profile">
+                                                    <img src="img/h1_hero.png" alt="" class="img-profile">
+                                                    <button id="btn-profile" class="action-btn">
+                                                        <span id="profile-up" class="material-symbols-outlined" class="icone-btn" style="display: block;">
+                                                            keyboard_arrow_up
+                                                        </span>
+                                                        <span id="profile-down" class="material-symbols-outlined" class="icone-btn" style="display: none;">
+                                                            keyboard_arrow_down
+                                                        </span>
+                                                    </button>
+                                                </div>
+                                                <div class="menu-profile">
+                                                    <ul class="list-group">
+                                                        <li class="list-group-item">An item</li>
+                                                        <li class="list-group-item">A second item</li>
+                                                        <li class="list-group-item">A third item</li>
+                                                        <li class="list-group-item">A fourth item</li>
+                                                        <li class="list-group-item">And a fifth one</li>
+                                                        <li class="list-group-item">And a fifth one</li>
+                                                        <li class="list-group-item">And a fifth one</li>
+                                                    </ul>
+
+                                                </div>
+
+                                            </div>
+                                        </li>
+
+                                    </ul>
+
+                                </nav>
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-2 col-lg-3 col-md-4 col-sm-5">
-                        <div class="single-footer-caption mb-50">
-                            <div class="footer-tittle">
-                                <h4>Our solutions</h4>
-                                <ul>
-                                    <li><a href="#">Design & creatives</a></li>
-                                    <li><a href="#">Telecommunication</a></li>
-                                    <li><a href="#">Restaurant</a></li>
-                                    <li><a href="#">Programing</a></li>
-                                    <li><a href="#">Architecture</a></li>
-                                </ul>
-                            </div>
+
+
+
+                </div>
+            </div>
+
+
+
+            <!-- Mobile Menu -->
+            <nav class="mobile-navigation-menu">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-10 justify-content-center align-items-center">
+                            <a href="/Home/Index">
+                                <svg width="145" height="60" xmlns="http://www.w3.org/2000/svg">
+
+                                    <rect x="10" y="15" width="30" height="30" rx="5" ry="5" stroke="black" stroke-width="3" fill="#6930c3" />
+                                    <text x="26" y="37" font-size="20" font-family="Arial" text-anchor="middle" fill="white">C</text>
+
+
+                                    <text x="50" y="37" font-size="25" font-family="Arial" fill="#64dfdf">Codem</text>
+                                </svg>
+                            </a>
+                        </div>
+                        <div class="col-2 justify-content-center align-self-center">
+                            <button id="close-menu-cat" class="action-btn">
+                                <ion-icon name="close-outline" class="icone-btn"></ion-icon>
+                            </button>
                         </div>
                     </div>
-                    <div class="col-xl-2 col-lg-4 col-md-4 col-sm-6">
-                        <div class="single-footer-caption mb-50">
-                            <div class="footer-tittle">
-                                <h4>Support</h4>
-                                <ul>
-                                    <li><a href="#">Design & creatives</a></li>
-                                    <li><a href="#">Telecommunication</a></li>
-                                    <li><a href="#">Restaurant</a></li>
-                                    <li><a href="#">Programing</a></li>
-                                    <li><a href="#">Architecture</a></li>
-                                </ul>
-                            </div>
-                        </div>
+                    <hr>
+                    <ul class="list-group list-group-flush ">
+                        <li class="list-group-item mb-3 mt-3">
+                            <a class="link-list" href="index.html">Home</a>
+                        </li>
+                        <li class="list-group-item mb-3">
+                            <a class="link-list" href="courses.html">Courses</a>
+                        </li>
+                        <li class="list-group-item mb-3">
+                            <a class="link-list" href="about.html">About</a>
+                        </li>
+                        <li class="list-group-item mb-3">
+                            <a class="link-list" href="contact.html">Contact</a>
+                        </li>
+                    </ul>
+
+
+                </div>
+            </nav>
+
+            <nav class="search-navigation">
+                <div class="row">
+                    <div style="text-align: end;" class="closed-div">
+                        <button id="close-search" class="action-btn">
+                            <ion-icon name="close-outline" class="icone-btn"></ion-icon>
+                        </button>
                     </div>
-                    <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6">
-                        <div class="single-footer-caption mb-50">
-                            <div class="footer-tittle">
-                                <h4>Company</h4>
-                                <ul>
-                                    <li><a href="#">Design & creatives</a></li>
-                                    <li><a href="#">Telecommunication</a></li>
-                                    <li><a href="#">Restaurant</a></li>
-                                    <li><a href="#">Programing</a></li>
-                                    <li><a href="#">Architecture</a></li>
-                                </ul>
+                    <div class="group">
+                        <svg class="icon" aria-hidden="true" viewBox="0 0 24 24"><g><path d="M21.53 20.47l-3.66-3.66C19.195 15.24 20 13.214 20 11c0-4.97-4.03-9-9-9s-9 4.03-9 9 4.03 9 9 9c2.215 0 4.24-.804 5.808-2.13l3.66 3.66c.147.146.34.22.53.22s.385-.073.53-.22c.295-.293.295-.767.002-1.06zM3.5 11c0-4.135 3.365-7.5 7.5-7.5s7.5 3.365 7.5 7.5-3.365 7.5-7.5 7.5-7.5-3.365-7.5-7.5z"></path></g></svg>
+                        <input placeholder="Search" type="search" class="input">
+                    </div>
+
+                </div>
+            </nav>
+
+        </div>
+        <!-- Header End -->
+
+    </header>
+
+
+    <main>
+
+        <!-- <section class="slider-area ">
+            <div class="slider-active">-->
+        <!-- Single Slider -->
+        <!-- <div class="single-slider slider-height d-flex align-items-center">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-xl-6 col-lg-7 col-md-12">
+                                <div class="hero__caption">
+                                    <h1 data-animation="fadeInLeft" data-delay="0.2s">Online learning<br> platform</h1>
+                                    <p data-animation="fadeInLeft" data-delay="0.4s">Build skills with courses, certificates, and degrees online from world-class universities and companies</p>
+                                    <a href="#" class="btn hero-btn" data-animation="fadeInLeft" data-delay="0.7s">Join for Free</a>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-        <!-- Footer End-->
-    </div>
-</footer>
+        </section> -->
+        <div class="container"></div>
 
+
+    </main>
+    <footer></footer>
+
+</div>
+
+
+
+
+
+
+@* <footer> *@
+@*     <div class="footer-wrappper footer-bg"> *@
+@*         <!-- Footer Start--> *@
+@*         <div class="footer-area footer-padding"> *@
+@*             <div class="container"> *@
+@*                 <div class="row justify-content-between"> *@
+@*                     <div class="col-xl-4 col-lg-5 col-md-4 col-sm-6"> *@
+@*                         <div class="single-footer-caption mb-50"> *@
+@*                             <div class="single-footer-caption mb-30"> *@
+@*                                 <!-- logo --> *@
+@*                                 <div class="footer-logo mb-25"> *@
+@*                                     <a href="/Invite/Index"> *@
+@*                                         <svg width="145" height="60" xmlns="http://www.w3.org/2000/svg"> *@
+
+@*                                             <rect x="10" y="15" width="30" height="30" rx="5" ry="5" stroke="black" stroke-width="3" fill="#6930c3" /> *@
+@*                                             <text x="26" y="37" font-size="20" font-family="Arial" text-anchor="middle" fill="white">C</text> *@
+
+
+@*                                             <text x="50" y="37" font-size="25" font-family="Arial" fill="#ffffff">Codem</text> *@
+@*                                         </svg> *@
+@*                                     </a> *@
+@*                                 </div> *@
+@*                                 <div class="footer-tittle"> *@
+@*                                     <div class="footer-pera"> *@
+@*                                         <p>The automated process starts as soon as your clothes go into the machine.</p> *@
+@*                                     </div> *@
+@*                                 </div> *@
+@*                                 <!-- social --> *@
+@*                                 <div class="footer-social"> *@
+@*                                     <a href="#"><img class="fab fa-github" src="~/HomeImages/ic_github.png"/></a> *@
+@*                                     <a href="https://bit.ly/sai4ull"><i class="fab fa-facebook-f"></i></a> *@
+@*                                     <a href="#"><i class="fab fa-pinterest-p"></i></a> *@
+@*                                 </div> *@
+@*                             </div> *@
+@*                         </div> *@
+@*                     </div> *@
+@*                     <div class="col-xl-2 col-lg-3 col-md-4 col-sm-5"> *@
+@*                         <div class="single-footer-caption mb-50"> *@
+@*                             <div class="footer-tittle"> *@
+@*                                 <h4>Our solutions</h4> *@
+@*                                 <ul> *@
+@*                                     <li><a href="#">Design & creatives</a></li> *@
+@*                                     <li><a href="#">Telecommunication</a></li> *@
+@*                                     <li><a href="#">Restaurant</a></li> *@
+@*                                     <li><a href="#">Programing</a></li> *@
+@*                                     <li><a href="#">Architecture</a></li> *@
+@*                                 </ul> *@
+@*                             </div> *@
+@*                         </div> *@
+@*                     </div> *@
+@*                     <div class="col-xl-2 col-lg-4 col-md-4 col-sm-6"> *@
+@*                         <div class="single-footer-caption mb-50"> *@
+@*                             <div class="footer-tittle"> *@
+@*                                 <h4>Support</h4> *@
+@*                                 <ul> *@
+@*                                     <li><a href="#">Design & creatives</a></li> *@
+@*                                     <li><a href="#">Telecommunication</a></li> *@
+@*                                     <li><a href="#">Restaurant</a></li> *@
+@*                                     <li><a href="#">Programing</a></li> *@
+@*                                     <li><a href="#">Architecture</a></li> *@
+@*                                 </ul> *@
+@*                             </div> *@
+@*                         </div> *@
+@*                     </div> *@
+@*                     <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6"> *@
+@*                         <div class="single-footer-caption mb-50"> *@
+@*                             <div class="footer-tittle"> *@
+@*                                 <h4>Company</h4> *@
+@*                                 <ul> *@
+@*                                     <li><a href="#">Design & creatives</a></li> *@
+@*                                     <li><a href="#">Telecommunication</a></li> *@
+@*                                     <li><a href="#">Restaurant</a></li> *@
+@*                                     <li><a href="#">Programing</a></li> *@
+@*                                     <li><a href="#">Architecture</a></li> *@
+@*                                 </ul> *@
+@*                             </div> *@
+@*                         </div> *@
+@*                     </div> *@
+@*                 </div> *@
+@*             </div> *@
+@*         </div> *@
+@*         <!-- Footer End--> *@
+@*     </div> *@
+@* </footer> *@
+
+@section VendorScripts{
+    <!--
+      - ionicon link
+    -->
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+}
 @section PageScripts
 {
+    <script src="~/js/Home/IndexJavaScript.js"></script>
 
 }

@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\HomeImages\\logo_img.PNG"
     },
     {
+      "Id": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\css\\Auth\\page_auth.css",
+      "PackagePath": "staticwebassets\\css\\Auth\\page_auth.css"
+    },
+    {
       "Id": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\css\\Home\\IndexStyleSheet.css",
       "PackagePath": "staticwebassets\\css\\Home\\IndexStyleSheet.css"
     },
@@ -35,6 +39,10 @@
     {
       "Id": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\js\\Home\\IndexJavaScript.js",
+      "PackagePath": "staticwebassets\\js\\Home\\IndexJavaScript.js"
     },
     {
       "Id": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\js\\Home\\preloader.js",
