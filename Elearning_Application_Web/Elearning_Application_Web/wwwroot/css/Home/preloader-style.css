@@ -1,11 +1,36 @@
 ﻿
+/*scrollbar*/
+.has-scrollbar {
+    padding-bottom: 5px;
+}
+
+    .has-scrollbar::-webkit-scrollbar {
+        width: 5px;
+        height: 5px;
+    }
+
+    .has-scrollbar::-webkit-scrollbar-thumb {
+        background: transparent;
+        border: 3px solid var(--white);
+        -webkit-border-radius: 20px;
+        border-radius: 20px;
+    }
+
+    .has-scrollbar:hover::-webkit-scrollbar-thumb {
+        background: hsl(0, 0%, 90%);
+    }
+
+    .has-scrollbar::-webkit-scrollbar-thumb:hover {
+        background: hsl(0, 0%, 80%);
+    }
+/*end*/
 
 #preloader-active.fade-out {
     animation: fadeOut 3.6s ease-in-out forwards;
 }
 
 .preloader {
-    background-color: #f7f7f7;
+    background-color: #F5F5F5;
     width: 100%;
     height: 100%;
     position: fixed;
@@ -82,3 +107,6 @@
     }
 }
 
+.maincontainer {
+    display:none;
+}

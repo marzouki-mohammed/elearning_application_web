@@ -8,5 +8,9 @@ namespace Elearning_Application_Web.Controllers
         {
             return View();
         }
+        public IActionResult Courses()
+        {
+            return View();
+        }
     }
 }

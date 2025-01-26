@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TAJPAGPvcgahTftr9l7RjWmDBm4GSr3MdWr26E7Fqw8=",
+  "Hash": "pWrE6sc/7hU3D60Gkajy2JPSzWOjpO4qSBvpDrwC5DE=",
   "Source": "Elearning_Application_Web",
   "BasePath": "_content/Elearning_Application_Web",
   "Mode": "Default",
@@ -59,6 +59,27 @@
       "OriginalItemSpec": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
+      "Identity": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\1xjph8xxva-ucbhjwibp1.gz",
+      "SourceId": "Elearning_Application_Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Elearning_Application_Web",
+      "RelativePath": "HomeImages/icon2#[.{fingerprint=ucbhjwibp1}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\icon2.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "2baduj040h",
+      "Integrity": "bn9RlZaNrJkCsPEi+vjr6RIr4psKY3c75kpuT6hw+sI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\icon2.svg"
+    },
+    {
       "Identity": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\26rnpjpxi0-48y08845bh.gz",
       "SourceId": "Elearning_Application_Web",
       "SourceType": "Discovered",
@@ -101,12 +122,12 @@
       "OriginalItemSpec": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
-      "Identity": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\2hb18geb3l-ybn269nacf.gz",
+      "Identity": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\2hb18geb3l-5pgu2youvp.gz",
       "SourceId": "Elearning_Application_Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Elearning_Application_Web",
-      "RelativePath": "css/Home/IndexStyleSheet#[.{fingerprint=ybn269nacf}]?.css.gz",
+      "RelativePath": "css/Home/IndexStyleSheet#[.{fingerprint=5pgu2youvp}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -115,8 +136,8 @@
       "RelatedAsset": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\css\\Home\\IndexStyleSheet.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "br50f1ygp4",
-      "Integrity": "2a9HL7IK27qxIkweT26Btiyb52G4UIcsO39UC544/9Y=",
+      "Fingerprint": "cz5gek41wk",
+      "Integrity": "SKBhfkRcbUBzYMQLylCGbDAfktXlbjZQBAToc8eBXbk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\css\\Home\\IndexStyleSheet.css"
@@ -246,6 +267,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Identity": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\5kt1h98ykv-pid0eq4lue.gz",
+      "SourceId": "Elearning_Application_Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Elearning_Application_Web",
+      "RelativePath": "css/Home/CoursesStyleSheet#[.{fingerprint=pid0eq4lue}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\css\\Home\\CoursesStyleSheet.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "8ac9g7unsg",
+      "Integrity": "kC0txdDT+CyfvcYvbp+RGXnMxCubqBYdehjTU+IC+sk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\css\\Home\\CoursesStyleSheet.css"
     },
     {
       "Identity": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\5tzoc10omm-keugtjm085.gz",
@@ -395,6 +437,27 @@
       "OriginalItemSpec": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
+      "Identity": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\bjujbagr6x-i6lt79ui3v.gz",
+      "SourceId": "Elearning_Application_Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Elearning_Application_Web",
+      "RelativePath": "js/Home/CoursesJavaScript#[.{fingerprint=i6lt79ui3v}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\js\\Home\\CoursesJavaScript.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "bmpl474h85",
+      "Integrity": "DQulS/chtqDTr59A/9nRDMmR+zHaK4eKPK5aouXNbc0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\js\\Home\\CoursesJavaScript.js"
+    },
+    {
       "Identity": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\bvmmd6m82k-ausgxo2sd3.gz",
       "SourceId": "Elearning_Application_Web",
       "SourceType": "Discovered",
@@ -414,6 +477,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\c4rh03ucfz-9hlwwxsx7n.gz",
+      "SourceId": "Elearning_Application_Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Elearning_Application_Web",
+      "RelativePath": "HomeImages/icon1#[.{fingerprint=9hlwwxsx7n}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\icon1.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "hlyyvt19pv",
+      "Integrity": "W7njeacVeSSD3grUX1xwo0B04XZdE0ntgLUoy74+F6I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\icon1.svg"
     },
     {
       "Identity": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\ch8cc6tcpb-ft3s53vfgj.gz",
@@ -500,12 +584,12 @@
       "OriginalItemSpec": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Elearning_Application_Web.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\dtxla0rrvz-rkoxtd4fsj.gz",
+      "Identity": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\dtxla0rrvz-0upsr77uy4.gz",
       "SourceId": "Elearning_Application_Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Elearning_Application_Web",
-      "RelativePath": "js/Home/IndexJavaScript#[.{fingerprint=rkoxtd4fsj}]?.js.gz",
+      "RelativePath": "js/Home/IndexJavaScript#[.{fingerprint=0upsr77uy4}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -514,8 +598,8 @@
       "RelatedAsset": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\js\\Home\\IndexJavaScript.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "zgqrxbz611",
-      "Integrity": "PcS/DYYhZw67QPwCvgrh21NHKKSZC24rqUD/6NIwfc4=",
+      "Fingerprint": "r8w6s7s2mi",
+      "Integrity": "u0AdAYJRVgh0ovMT6OyaAFdCnccQYMXYDee/QCAYMRQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\js\\Home\\IndexJavaScript.js"
@@ -689,12 +773,12 @@
       "OriginalItemSpec": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\imul8xh9rf-pj2yfnw18p.gz",
+      "Identity": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\imul8xh9rf-hoybpr153m.gz",
       "SourceId": "Elearning_Application_Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Elearning_Application_Web",
-      "RelativePath": "css/Home/preloader-style#[.{fingerprint=pj2yfnw18p}]?.css.gz",
+      "RelativePath": "css/Home/preloader-style#[.{fingerprint=hoybpr153m}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -703,8 +787,8 @@
       "RelatedAsset": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\css\\Home\\preloader-style.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "qps3yayvuk",
-      "Integrity": "Hl7sE0aoNToYXU4wvEIt9GB2aLy03JPUnDafu9Nki4c=",
+      "Fingerprint": "74mrg2o19m",
+      "Integrity": "t8DLvg27r+gwVx7dok1vLIQGrjwdjSvUKTcRtl7EOyQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\css\\Home\\preloader-style.css"
@@ -1046,6 +1130,27 @@
       "OriginalItemSpec": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
+      "Identity": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\scpw9nx274-tgp99o4oe4.gz",
+      "SourceId": "Elearning_Application_Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Elearning_Application_Web",
+      "RelativePath": "HomeImages/icon3#[.{fingerprint=tgp99o4oe4}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\icon3.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "bounls5sg9",
+      "Integrity": "C3BT5SA9B6ZsDW2EU97OWnVzedfd51scJPYDSM4EySk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\icon3.svg"
+    },
+    {
       "Identity": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\t6oyuo08mk-c63t5i9ira.gz",
       "SourceId": "Elearning_Application_Web",
       "SourceType": "Discovered",
@@ -1256,12 +1361,12 @@
       "OriginalItemSpec": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\whn1x61p9j-0nfelwjmjh.gz",
+      "Identity": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\whn1x61p9j-3yfwev7yd8.gz",
       "SourceId": "Elearning_Application_Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Elearning_Application_Web",
-      "RelativePath": "js/Home/preloader#[.{fingerprint=0nfelwjmjh}]?.js.gz",
+      "RelativePath": "js/Home/preloader#[.{fingerprint=3yfwev7yd8}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1270,8 +1375,8 @@
       "RelatedAsset": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\js\\Home\\preloader.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "r1bhyeq9g4",
-      "Integrity": "L4xQ8OiDIypessFN/ATy3Lck7tdARILXV5Z88dnJbmY=",
+      "Fingerprint": "i6af7gq7mq",
+      "Integrity": "thcOyeEBB3a7KzwYpAm9TerG/6lIS64OuLpSqHjFy5c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\js\\Home\\preloader.js"
@@ -1550,6 +1655,27 @@
       "OriginalItemSpec": "wwwroot\\css\\Auth\\page_auth.css"
     },
     {
+      "Identity": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\css\\Home\\CoursesStyleSheet.css",
+      "SourceId": "Elearning_Application_Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\",
+      "BasePath": "_content/Elearning_Application_Web",
+      "RelativePath": "css/Home/CoursesStyleSheet#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pid0eq4lue",
+      "Integrity": "cTpJqSl7Hs9OvNZ8Jy1sdakApXvtTEWCHwM5TSOJHhI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Home\\CoursesStyleSheet.css"
+    },
+    {
       "Identity": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\css\\Home\\IndexStyleSheet.css",
       "SourceId": "Elearning_Application_Web",
       "SourceType": "Discovered",
@@ -1564,8 +1690,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ybn269nacf",
-      "Integrity": "nlxcnfmYPOYU2AvpagZjjJU6L3YjUkO1CrG236PuwhM=",
+      "Fingerprint": "5pgu2youvp",
+      "Integrity": "CbqqHZHDLZEOSWHKb4zxtBom3GWXPY1Mh24+tPKa9ps=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Home\\IndexStyleSheet.css"
@@ -1585,8 +1711,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "pj2yfnw18p",
-      "Integrity": "ZaxJRob9na4iXvPRm7lysfRCVheAlAEW1gqlHa7oAvs=",
+      "Fingerprint": "hoybpr153m",
+      "Integrity": "ryZmx98Pj/m4VK4D9BQ3opkzKoGlMF0RbwOR13xGilQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Home\\preloader-style.css"
@@ -1634,6 +1760,153 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\course-1.jpg",
+      "SourceId": "Elearning_Application_Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\",
+      "BasePath": "_content/Elearning_Application_Web",
+      "RelativePath": "HomeImages/course-1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "snrrdz9sse",
+      "Integrity": "yO0P8bTpTPJfZ/LVkkQoRxWQ3huE1zjZzfhGX3QuY/E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\HomeImages\\course-1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\course-2.jpg",
+      "SourceId": "Elearning_Application_Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\",
+      "BasePath": "_content/Elearning_Application_Web",
+      "RelativePath": "HomeImages/course-2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5rwllf54qs",
+      "Integrity": "EbqXkMwKVQkzsPozOF2iYhvn8OCwFA63jXPKyTlRank=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\HomeImages\\course-2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\course-3.jpg",
+      "SourceId": "Elearning_Application_Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\",
+      "BasePath": "_content/Elearning_Application_Web",
+      "RelativePath": "HomeImages/course-3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cmn1ziv7n8",
+      "Integrity": "LJdgkgmyqiaWganp4QFxUV84coLqP8sXKz/wNmmsQ4Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\HomeImages\\course-3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\h1_hero.png",
+      "SourceId": "Elearning_Application_Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\",
+      "BasePath": "_content/Elearning_Application_Web",
+      "RelativePath": "HomeImages/h1_hero#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c2vbeghdwy",
+      "Integrity": "/C+1ykf+0J++8r/8AGQW1MyKQq5np87Tl+8kg+sGAoM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\HomeImages\\h1_hero.png"
+    },
+    {
+      "Identity": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\hero1.jpg",
+      "SourceId": "Elearning_Application_Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\",
+      "BasePath": "_content/Elearning_Application_Web",
+      "RelativePath": "HomeImages/hero1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eq3cpkxlkn",
+      "Integrity": "Gonlt7YEvzzNJLUucaiWywuNHtSb0sohe6YhWI5PVGo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\HomeImages\\hero1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\hero2.jpg",
+      "SourceId": "Elearning_Application_Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\",
+      "BasePath": "_content/Elearning_Application_Web",
+      "RelativePath": "HomeImages/hero2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9m2ivdqo35",
+      "Integrity": "wVD2AdrnalgEodkxJ086sDCrj1G1d2/8MNFNY5bdNSE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\HomeImages\\hero2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\hero3.jpg",
+      "SourceId": "Elearning_Application_Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\",
+      "BasePath": "_content/Elearning_Application_Web",
+      "RelativePath": "HomeImages/hero3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0l7exkrzif",
+      "Integrity": "5B40XJqwyVZk/GoOLNH0VkLteSO0x5cfVxcMMJKgePc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\HomeImages\\hero3.jpg"
+    },
+    {
       "Identity": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\ic_github.png",
       "SourceId": "Elearning_Application_Web",
       "SourceType": "Discovered",
@@ -1653,6 +1926,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\HomeImages\\ic_github.png"
+    },
+    {
+      "Identity": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\icon1.svg",
+      "SourceId": "Elearning_Application_Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\",
+      "BasePath": "_content/Elearning_Application_Web",
+      "RelativePath": "HomeImages/icon1#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9hlwwxsx7n",
+      "Integrity": "Q4dWiXHGKOXKaFnPIp64Eya1wdFGqM0Waso3zO0gkZI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\HomeImages\\icon1.svg"
+    },
+    {
+      "Identity": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\icon2.svg",
+      "SourceId": "Elearning_Application_Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\",
+      "BasePath": "_content/Elearning_Application_Web",
+      "RelativePath": "HomeImages/icon2#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ucbhjwibp1",
+      "Integrity": "Qlm/bebAEQyXjrfiB0THpc+5jJ2++s1PVCCCY1CGIJ8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\HomeImages\\icon2.svg"
+    },
+    {
+      "Identity": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\icon3.svg",
+      "SourceId": "Elearning_Application_Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\",
+      "BasePath": "_content/Elearning_Application_Web",
+      "RelativePath": "HomeImages/icon3#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tgp99o4oe4",
+      "Integrity": "LTKtHWalHq0VcXNtvkAZ3KYsCGtQaQoA4mWhJWjkNYk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\HomeImages\\icon3.svg"
     },
     {
       "Identity": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\loder.png",
@@ -1718,6 +2054,27 @@
       "OriginalItemSpec": "wwwroot\\HomeImages\\logo_img.PNG"
     },
     {
+      "Identity": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\js\\Home\\CoursesJavaScript.js",
+      "SourceId": "Elearning_Application_Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\",
+      "BasePath": "_content/Elearning_Application_Web",
+      "RelativePath": "js/Home/CoursesJavaScript#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i6lt79ui3v",
+      "Integrity": "eps7zTyNj09KWSNLGocwj3VM7pp7keWG5OwR5R19OPY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Home\\CoursesJavaScript.js"
+    },
+    {
       "Identity": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\js\\Home\\IndexJavaScript.js",
       "SourceId": "Elearning_Application_Web",
       "SourceType": "Discovered",
@@ -1732,8 +2089,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "rkoxtd4fsj",
-      "Integrity": "VXS8YX32ZfT1smnTL+mYxI4iwsxrHmEbJNFA8CUHzqg=",
+      "Fingerprint": "0upsr77uy4",
+      "Integrity": "yNhJUiFGDSxAB5JO03XKLHeYywuR88X9C0pT/N3ONvU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\Home\\IndexJavaScript.js"
@@ -1753,8 +2110,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "0nfelwjmjh",
-      "Integrity": "VFQ43lF+j+K5oK4MQLRTK0p8IGpP7cmKkNwTszx5mlo=",
+      "Fingerprint": "3yfwev7yd8",
+      "Integrity": "u7KiZvj43JtO7yg2KAPcaTaYsHuAIBOAkQRuYZEBQwo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\Home\\preloader.js"
@@ -3362,13 +3719,13 @@
       ]
     },
     {
-      "Route": "css/Home/IndexStyleSheet.css",
-      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\2hb18geb3l-ybn269nacf.gz",
+      "Route": "css/Home/CoursesStyleSheet.css",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\5kt1h98ykv-pid0eq4lue.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000643915003"
+          "Quality": "0.000390015601"
         }
       ],
       "ResponseHeaders": [
@@ -3378,15 +3735,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1552"
+          "Value": "2563"
         },
         {
           "Name": "ETag",
-          "Value": "\"2a9HL7IK27qxIkweT26Btiyb52G4UIcsO39UC544/9Y=\""
+          "Value": "\"kC0txdDT+CyfvcYvbp+RGXnMxCubqBYdehjTU+IC+sk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 19:58:14 GMT"
+          "Value": "Sun, 26 Jan 2025 22:04:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3406,18 +3763,324 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"nlxcnfmYPOYU2AvpagZjjJU6L3YjUkO1CrG236PuwhM=\""
+          "Value": "W/\"cTpJqSl7Hs9OvNZ8Jy1sdakApXvtTEWCHwM5TSOJHhI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-nlxcnfmYPOYU2AvpagZjjJU6L3YjUkO1CrG236PuwhM="
+          "Value": "sha256-cTpJqSl7Hs9OvNZ8Jy1sdakApXvtTEWCHwM5TSOJHhI="
         }
       ]
     },
     {
-      "Route": "css/Home/IndexStyleSheet.css",
+      "Route": "css/Home/CoursesStyleSheet.css",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\css\\Home\\CoursesStyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11186"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cTpJqSl7Hs9OvNZ8Jy1sdakApXvtTEWCHwM5TSOJHhI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 22:04:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cTpJqSl7Hs9OvNZ8Jy1sdakApXvtTEWCHwM5TSOJHhI="
+        }
+      ]
+    },
+    {
+      "Route": "css/Home/CoursesStyleSheet.css.gz",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\5kt1h98ykv-pid0eq4lue.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2563"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kC0txdDT+CyfvcYvbp+RGXnMxCubqBYdehjTU+IC+sk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 22:04:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kC0txdDT+CyfvcYvbp+RGXnMxCubqBYdehjTU+IC+sk="
+        }
+      ]
+    },
+    {
+      "Route": "css/Home/CoursesStyleSheet.pid0eq4lue.css",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\5kt1h98ykv-pid0eq4lue.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000390015601"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2563"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kC0txdDT+CyfvcYvbp+RGXnMxCubqBYdehjTU+IC+sk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 22:04:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"cTpJqSl7Hs9OvNZ8Jy1sdakApXvtTEWCHwM5TSOJHhI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pid0eq4lue"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Home/CoursesStyleSheet.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cTpJqSl7Hs9OvNZ8Jy1sdakApXvtTEWCHwM5TSOJHhI="
+        }
+      ]
+    },
+    {
+      "Route": "css/Home/CoursesStyleSheet.pid0eq4lue.css",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\css\\Home\\CoursesStyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11186"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cTpJqSl7Hs9OvNZ8Jy1sdakApXvtTEWCHwM5TSOJHhI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 22:04:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pid0eq4lue"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Home/CoursesStyleSheet.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cTpJqSl7Hs9OvNZ8Jy1sdakApXvtTEWCHwM5TSOJHhI="
+        }
+      ]
+    },
+    {
+      "Route": "css/Home/CoursesStyleSheet.pid0eq4lue.css.gz",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\5kt1h98ykv-pid0eq4lue.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2563"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kC0txdDT+CyfvcYvbp+RGXnMxCubqBYdehjTU+IC+sk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 22:04:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pid0eq4lue"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Home/CoursesStyleSheet.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kC0txdDT+CyfvcYvbp+RGXnMxCubqBYdehjTU+IC+sk="
+        }
+      ]
+    },
+    {
+      "Route": "css/Home/IndexStyleSheet.5pgu2youvp.css",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\2hb18geb3l-5pgu2youvp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000245158127"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4078"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SKBhfkRcbUBzYMQLylCGbDAfktXlbjZQBAToc8eBXbk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 22:07:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"CbqqHZHDLZEOSWHKb4zxtBom3GWXPY1Mh24+tPKa9ps=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5pgu2youvp"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Home/IndexStyleSheet.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CbqqHZHDLZEOSWHKb4zxtBom3GWXPY1Mh24+tPKa9ps="
+        }
+      ]
+    },
+    {
+      "Route": "css/Home/IndexStyleSheet.5pgu2youvp.css",
       "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\css\\Home\\IndexStyleSheet.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3427,7 +4090,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5368"
+          "Value": "22711"
         },
         {
           "Name": "Content-Type",
@@ -3435,121 +4098,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nlxcnfmYPOYU2AvpagZjjJU6L3YjUkO1CrG236PuwhM=\""
+          "Value": "\"CbqqHZHDLZEOSWHKb4zxtBom3GWXPY1Mh24+tPKa9ps=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 19:58:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-nlxcnfmYPOYU2AvpagZjjJU6L3YjUkO1CrG236PuwhM="
-        }
-      ]
-    },
-    {
-      "Route": "css/Home/IndexStyleSheet.css.gz",
-      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\2hb18geb3l-ybn269nacf.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1552"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2a9HL7IK27qxIkweT26Btiyb52G4UIcsO39UC544/9Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 19:58:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-2a9HL7IK27qxIkweT26Btiyb52G4UIcsO39UC544/9Y="
-        }
-      ]
-    },
-    {
-      "Route": "css/Home/IndexStyleSheet.ybn269nacf.css",
-      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\2hb18geb3l-ybn269nacf.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000643915003"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1552"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2a9HL7IK27qxIkweT26Btiyb52G4UIcsO39UC544/9Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 19:58:14 GMT"
+          "Value": "Sun, 26 Jan 2025 22:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"nlxcnfmYPOYU2AvpagZjjJU6L3YjUkO1CrG236PuwhM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ybn269nacf"
+          "Value": "5pgu2youvp"
         },
         {
           "Name": "label",
@@ -3557,13 +4120,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-nlxcnfmYPOYU2AvpagZjjJU6L3YjUkO1CrG236PuwhM="
+          "Value": "sha256-CbqqHZHDLZEOSWHKb4zxtBom3GWXPY1Mh24+tPKa9ps="
         }
       ]
     },
     {
-      "Route": "css/Home/IndexStyleSheet.ybn269nacf.css",
-      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\css\\Home\\IndexStyleSheet.css",
+      "Route": "css/Home/IndexStyleSheet.5pgu2youvp.css.gz",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\2hb18geb3l-5pgu2youvp.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3572,7 +4135,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5368"
+          "Value": "4078"
         },
         {
           "Name": "Content-Type",
@@ -3580,56 +4143,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nlxcnfmYPOYU2AvpagZjjJU6L3YjUkO1CrG236PuwhM=\""
+          "Value": "\"SKBhfkRcbUBzYMQLylCGbDAfktXlbjZQBAToc8eBXbk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 19:58:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ybn269nacf"
-        },
-        {
-          "Name": "label",
-          "Value": "css/Home/IndexStyleSheet.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-nlxcnfmYPOYU2AvpagZjjJU6L3YjUkO1CrG236PuwhM="
-        }
-      ]
-    },
-    {
-      "Route": "css/Home/IndexStyleSheet.ybn269nacf.css.gz",
-      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\2hb18geb3l-ybn269nacf.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1552"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2a9HL7IK27qxIkweT26Btiyb52G4UIcsO39UC544/9Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 19:58:14 GMT"
+          "Value": "Sun, 26 Jan 2025 22:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3647,7 +4165,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ybn269nacf"
+          "Value": "5pgu2youvp"
         },
         {
           "Name": "label",
@@ -3655,18 +4173,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-2a9HL7IK27qxIkweT26Btiyb52G4UIcsO39UC544/9Y="
+          "Value": "sha256-SKBhfkRcbUBzYMQLylCGbDAfktXlbjZQBAToc8eBXbk="
         }
       ]
     },
     {
-      "Route": "css/Home/preloader-style.css",
-      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\imul8xh9rf-pj2yfnw18p.gz",
+      "Route": "css/Home/IndexStyleSheet.css",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\2hb18geb3l-5pgu2youvp.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001572327044"
+          "Quality": "0.000245158127"
         }
       ],
       "ResponseHeaders": [
@@ -3676,15 +4194,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "635"
+          "Value": "4078"
         },
         {
           "Name": "ETag",
-          "Value": "\"Hl7sE0aoNToYXU4wvEIt9GB2aLy03JPUnDafu9Nki4c=\""
+          "Value": "\"SKBhfkRcbUBzYMQLylCGbDAfktXlbjZQBAToc8eBXbk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Jan 2025 09:11:51 GMT"
+          "Value": "Sun, 26 Jan 2025 22:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3704,13 +4222,150 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ZaxJRob9na4iXvPRm7lysfRCVheAlAEW1gqlHa7oAvs=\""
+          "Value": "W/\"CbqqHZHDLZEOSWHKb4zxtBom3GWXPY1Mh24+tPKa9ps=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZaxJRob9na4iXvPRm7lysfRCVheAlAEW1gqlHa7oAvs="
+          "Value": "sha256-CbqqHZHDLZEOSWHKb4zxtBom3GWXPY1Mh24+tPKa9ps="
+        }
+      ]
+    },
+    {
+      "Route": "css/Home/IndexStyleSheet.css",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\css\\Home\\IndexStyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22711"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CbqqHZHDLZEOSWHKb4zxtBom3GWXPY1Mh24+tPKa9ps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 22:07:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CbqqHZHDLZEOSWHKb4zxtBom3GWXPY1Mh24+tPKa9ps="
+        }
+      ]
+    },
+    {
+      "Route": "css/Home/IndexStyleSheet.css.gz",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\2hb18geb3l-5pgu2youvp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4078"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SKBhfkRcbUBzYMQLylCGbDAfktXlbjZQBAToc8eBXbk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 22:07:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SKBhfkRcbUBzYMQLylCGbDAfktXlbjZQBAToc8eBXbk="
+        }
+      ]
+    },
+    {
+      "Route": "css/Home/preloader-style.css",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\imul8xh9rf-hoybpr153m.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001293661061"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "772"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t8DLvg27r+gwVx7dok1vLIQGrjwdjSvUKTcRtl7EOyQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 19:57:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ryZmx98Pj/m4VK4D9BQ3opkzKoGlMF0RbwOR13xGilQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ryZmx98Pj/m4VK4D9BQ3opkzKoGlMF0RbwOR13xGilQ="
         }
       ]
     },
@@ -3725,7 +4380,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1943"
+          "Value": "2546"
         },
         {
           "Name": "Content-Type",
@@ -3733,11 +4388,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZaxJRob9na4iXvPRm7lysfRCVheAlAEW1gqlHa7oAvs=\""
+          "Value": "\"ryZmx98Pj/m4VK4D9BQ3opkzKoGlMF0RbwOR13xGilQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Jan 2025 09:11:51 GMT"
+          "Value": "Sat, 25 Jan 2025 19:57:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3747,13 +4402,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZaxJRob9na4iXvPRm7lysfRCVheAlAEW1gqlHa7oAvs="
+          "Value": "sha256-ryZmx98Pj/m4VK4D9BQ3opkzKoGlMF0RbwOR13xGilQ="
         }
       ]
     },
     {
       "Route": "css/Home/preloader-style.css.gz",
-      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\imul8xh9rf-pj2yfnw18p.gz",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\imul8xh9rf-hoybpr153m.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3762,7 +4417,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "635"
+          "Value": "772"
         },
         {
           "Name": "Content-Type",
@@ -3770,11 +4425,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Hl7sE0aoNToYXU4wvEIt9GB2aLy03JPUnDafu9Nki4c=\""
+          "Value": "\"t8DLvg27r+gwVx7dok1vLIQGrjwdjSvUKTcRtl7EOyQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Jan 2025 09:11:51 GMT"
+          "Value": "Sat, 25 Jan 2025 19:57:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3792,18 +4447,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Hl7sE0aoNToYXU4wvEIt9GB2aLy03JPUnDafu9Nki4c="
+          "Value": "sha256-t8DLvg27r+gwVx7dok1vLIQGrjwdjSvUKTcRtl7EOyQ="
         }
       ]
     },
     {
-      "Route": "css/Home/preloader-style.pj2yfnw18p.css",
-      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\imul8xh9rf-pj2yfnw18p.gz",
+      "Route": "css/Home/preloader-style.hoybpr153m.css",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\imul8xh9rf-hoybpr153m.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001572327044"
+          "Quality": "0.001293661061"
         }
       ],
       "ResponseHeaders": [
@@ -3813,15 +4468,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "635"
+          "Value": "772"
         },
         {
           "Name": "ETag",
-          "Value": "\"Hl7sE0aoNToYXU4wvEIt9GB2aLy03JPUnDafu9Nki4c=\""
+          "Value": "\"t8DLvg27r+gwVx7dok1vLIQGrjwdjSvUKTcRtl7EOyQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Jan 2025 09:11:51 GMT"
+          "Value": "Sat, 25 Jan 2025 19:57:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3841,13 +4496,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ZaxJRob9na4iXvPRm7lysfRCVheAlAEW1gqlHa7oAvs=\""
+          "Value": "W/\"ryZmx98Pj/m4VK4D9BQ3opkzKoGlMF0RbwOR13xGilQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "pj2yfnw18p"
+          "Value": "hoybpr153m"
         },
         {
           "Name": "label",
@@ -3855,12 +4510,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ZaxJRob9na4iXvPRm7lysfRCVheAlAEW1gqlHa7oAvs="
+          "Value": "sha256-ryZmx98Pj/m4VK4D9BQ3opkzKoGlMF0RbwOR13xGilQ="
         }
       ]
     },
     {
-      "Route": "css/Home/preloader-style.pj2yfnw18p.css",
+      "Route": "css/Home/preloader-style.hoybpr153m.css",
       "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\css\\Home\\preloader-style.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3870,7 +4525,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1943"
+          "Value": "2546"
         },
         {
           "Name": "Content-Type",
@@ -3878,11 +4533,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZaxJRob9na4iXvPRm7lysfRCVheAlAEW1gqlHa7oAvs=\""
+          "Value": "\"ryZmx98Pj/m4VK4D9BQ3opkzKoGlMF0RbwOR13xGilQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Jan 2025 09:11:51 GMT"
+          "Value": "Sat, 25 Jan 2025 19:57:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3892,7 +4547,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "pj2yfnw18p"
+          "Value": "hoybpr153m"
         },
         {
           "Name": "label",
@@ -3900,13 +4555,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ZaxJRob9na4iXvPRm7lysfRCVheAlAEW1gqlHa7oAvs="
+          "Value": "sha256-ryZmx98Pj/m4VK4D9BQ3opkzKoGlMF0RbwOR13xGilQ="
         }
       ]
     },
     {
-      "Route": "css/Home/preloader-style.pj2yfnw18p.css.gz",
-      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\imul8xh9rf-pj2yfnw18p.gz",
+      "Route": "css/Home/preloader-style.hoybpr153m.css.gz",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\imul8xh9rf-hoybpr153m.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3915,7 +4570,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "635"
+          "Value": "772"
         },
         {
           "Name": "Content-Type",
@@ -3923,11 +4578,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Hl7sE0aoNToYXU4wvEIt9GB2aLy03JPUnDafu9Nki4c=\""
+          "Value": "\"t8DLvg27r+gwVx7dok1vLIQGrjwdjSvUKTcRtl7EOyQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Jan 2025 09:11:51 GMT"
+          "Value": "Sat, 25 Jan 2025 19:57:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3945,7 +4600,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "pj2yfnw18p"
+          "Value": "hoybpr153m"
         },
         {
           "Name": "label",
@@ -3953,7 +4608,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Hl7sE0aoNToYXU4wvEIt9GB2aLy03JPUnDafu9Nki4c="
+          "Value": "sha256-t8DLvg27r+gwVx7dok1vLIQGrjwdjSvUKTcRtl7EOyQ="
         }
       ]
     },
@@ -5150,6 +5805,580 @@
       ]
     },
     {
+      "Route": "HomeImages/course-1.jpg",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\course-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51602"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yO0P8bTpTPJfZ/LVkkQoRxWQ3huE1zjZzfhGX3QuY/E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 00:46:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yO0P8bTpTPJfZ/LVkkQoRxWQ3huE1zjZzfhGX3QuY/E="
+        }
+      ]
+    },
+    {
+      "Route": "HomeImages/course-1.snrrdz9sse.jpg",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\course-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51602"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yO0P8bTpTPJfZ/LVkkQoRxWQ3huE1zjZzfhGX3QuY/E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 00:46:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "snrrdz9sse"
+        },
+        {
+          "Name": "label",
+          "Value": "HomeImages/course-1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yO0P8bTpTPJfZ/LVkkQoRxWQ3huE1zjZzfhGX3QuY/E="
+        }
+      ]
+    },
+    {
+      "Route": "HomeImages/course-2.5rwllf54qs.jpg",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\course-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90575"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EbqXkMwKVQkzsPozOF2iYhvn8OCwFA63jXPKyTlRank=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 00:46:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5rwllf54qs"
+        },
+        {
+          "Name": "label",
+          "Value": "HomeImages/course-2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EbqXkMwKVQkzsPozOF2iYhvn8OCwFA63jXPKyTlRank="
+        }
+      ]
+    },
+    {
+      "Route": "HomeImages/course-2.jpg",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\course-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90575"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EbqXkMwKVQkzsPozOF2iYhvn8OCwFA63jXPKyTlRank=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 00:46:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EbqXkMwKVQkzsPozOF2iYhvn8OCwFA63jXPKyTlRank="
+        }
+      ]
+    },
+    {
+      "Route": "HomeImages/course-3.cmn1ziv7n8.jpg",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\course-3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "120248"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LJdgkgmyqiaWganp4QFxUV84coLqP8sXKz/wNmmsQ4Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 00:46:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cmn1ziv7n8"
+        },
+        {
+          "Name": "label",
+          "Value": "HomeImages/course-3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LJdgkgmyqiaWganp4QFxUV84coLqP8sXKz/wNmmsQ4Q="
+        }
+      ]
+    },
+    {
+      "Route": "HomeImages/course-3.jpg",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\course-3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "120248"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LJdgkgmyqiaWganp4QFxUV84coLqP8sXKz/wNmmsQ4Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 00:46:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LJdgkgmyqiaWganp4QFxUV84coLqP8sXKz/wNmmsQ4Q="
+        }
+      ]
+    },
+    {
+      "Route": "HomeImages/h1_hero.c2vbeghdwy.png",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\h1_hero.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69102"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/C+1ykf+0J++8r/8AGQW1MyKQq5np87Tl+8kg+sGAoM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 13:26:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c2vbeghdwy"
+        },
+        {
+          "Name": "label",
+          "Value": "HomeImages/h1_hero.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/C+1ykf+0J++8r/8AGQW1MyKQq5np87Tl+8kg+sGAoM="
+        }
+      ]
+    },
+    {
+      "Route": "HomeImages/h1_hero.png",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\h1_hero.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69102"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/C+1ykf+0J++8r/8AGQW1MyKQq5np87Tl+8kg+sGAoM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 13:26:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/C+1ykf+0J++8r/8AGQW1MyKQq5np87Tl+8kg+sGAoM="
+        }
+      ]
+    },
+    {
+      "Route": "HomeImages/hero1.eq3cpkxlkn.jpg",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\hero1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gonlt7YEvzzNJLUucaiWywuNHtSb0sohe6YhWI5PVGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 15:12:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eq3cpkxlkn"
+        },
+        {
+          "Name": "label",
+          "Value": "HomeImages/hero1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gonlt7YEvzzNJLUucaiWywuNHtSb0sohe6YhWI5PVGo="
+        }
+      ]
+    },
+    {
+      "Route": "HomeImages/hero1.jpg",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\hero1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gonlt7YEvzzNJLUucaiWywuNHtSb0sohe6YhWI5PVGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 15:12:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gonlt7YEvzzNJLUucaiWywuNHtSb0sohe6YhWI5PVGo="
+        }
+      ]
+    },
+    {
+      "Route": "HomeImages/hero2.9m2ivdqo35.jpg",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\hero2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13420"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wVD2AdrnalgEodkxJ086sDCrj1G1d2/8MNFNY5bdNSE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Jan 2025 13:46:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9m2ivdqo35"
+        },
+        {
+          "Name": "label",
+          "Value": "HomeImages/hero2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wVD2AdrnalgEodkxJ086sDCrj1G1d2/8MNFNY5bdNSE="
+        }
+      ]
+    },
+    {
+      "Route": "HomeImages/hero2.jpg",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\hero2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13420"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wVD2AdrnalgEodkxJ086sDCrj1G1d2/8MNFNY5bdNSE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Jan 2025 13:46:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wVD2AdrnalgEodkxJ086sDCrj1G1d2/8MNFNY5bdNSE="
+        }
+      ]
+    },
+    {
+      "Route": "HomeImages/hero3.0l7exkrzif.jpg",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\hero3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12798"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5B40XJqwyVZk/GoOLNH0VkLteSO0x5cfVxcMMJKgePc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Jan 2025 14:03:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0l7exkrzif"
+        },
+        {
+          "Name": "label",
+          "Value": "HomeImages/hero3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5B40XJqwyVZk/GoOLNH0VkLteSO0x5cfVxcMMJKgePc="
+        }
+      ]
+    },
+    {
+      "Route": "HomeImages/hero3.jpg",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\hero3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12798"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5B40XJqwyVZk/GoOLNH0VkLteSO0x5cfVxcMMJKgePc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Jan 2025 14:03:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5B40XJqwyVZk/GoOLNH0VkLteSO0x5cfVxcMMJKgePc="
+        }
+      ]
+    },
+    {
       "Route": "HomeImages/ic_github.png",
       "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\ic_github.png",
       "Selectors": [],
@@ -5228,6 +6457,900 @@
         {
           "Name": "integrity",
           "Value": "sha256-VtGoXpZdbuls3Ryo3gijKKrihjNSMTHAjt1SNomwaEg="
+        }
+      ]
+    },
+    {
+      "Route": "HomeImages/icon1.9hlwwxsx7n.svg",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\c4rh03ucfz-9hlwwxsx7n.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000853970965"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1170"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W7njeacVeSSD3grUX1xwo0B04XZdE0ntgLUoy74+F6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 13:26:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Q4dWiXHGKOXKaFnPIp64Eya1wdFGqM0Waso3zO0gkZI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9hlwwxsx7n"
+        },
+        {
+          "Name": "label",
+          "Value": "HomeImages/icon1.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q4dWiXHGKOXKaFnPIp64Eya1wdFGqM0Waso3zO0gkZI="
+        }
+      ]
+    },
+    {
+      "Route": "HomeImages/icon1.9hlwwxsx7n.svg",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\icon1.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5139"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q4dWiXHGKOXKaFnPIp64Eya1wdFGqM0Waso3zO0gkZI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 13:26:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9hlwwxsx7n"
+        },
+        {
+          "Name": "label",
+          "Value": "HomeImages/icon1.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q4dWiXHGKOXKaFnPIp64Eya1wdFGqM0Waso3zO0gkZI="
+        }
+      ]
+    },
+    {
+      "Route": "HomeImages/icon1.9hlwwxsx7n.svg.gz",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\c4rh03ucfz-9hlwwxsx7n.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1170"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W7njeacVeSSD3grUX1xwo0B04XZdE0ntgLUoy74+F6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 13:26:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9hlwwxsx7n"
+        },
+        {
+          "Name": "label",
+          "Value": "HomeImages/icon1.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W7njeacVeSSD3grUX1xwo0B04XZdE0ntgLUoy74+F6I="
+        }
+      ]
+    },
+    {
+      "Route": "HomeImages/icon1.svg",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\c4rh03ucfz-9hlwwxsx7n.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000853970965"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1170"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W7njeacVeSSD3grUX1xwo0B04XZdE0ntgLUoy74+F6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 13:26:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Q4dWiXHGKOXKaFnPIp64Eya1wdFGqM0Waso3zO0gkZI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q4dWiXHGKOXKaFnPIp64Eya1wdFGqM0Waso3zO0gkZI="
+        }
+      ]
+    },
+    {
+      "Route": "HomeImages/icon1.svg",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\icon1.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5139"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q4dWiXHGKOXKaFnPIp64Eya1wdFGqM0Waso3zO0gkZI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 13:26:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q4dWiXHGKOXKaFnPIp64Eya1wdFGqM0Waso3zO0gkZI="
+        }
+      ]
+    },
+    {
+      "Route": "HomeImages/icon1.svg.gz",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\c4rh03ucfz-9hlwwxsx7n.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1170"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W7njeacVeSSD3grUX1xwo0B04XZdE0ntgLUoy74+F6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 13:26:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W7njeacVeSSD3grUX1xwo0B04XZdE0ntgLUoy74+F6I="
+        }
+      ]
+    },
+    {
+      "Route": "HomeImages/icon2.svg",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\1xjph8xxva-ucbhjwibp1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000774593338"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1290"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bn9RlZaNrJkCsPEi+vjr6RIr4psKY3c75kpuT6hw+sI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 13:26:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Qlm/bebAEQyXjrfiB0THpc+5jJ2++s1PVCCCY1CGIJ8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qlm/bebAEQyXjrfiB0THpc+5jJ2++s1PVCCCY1CGIJ8="
+        }
+      ]
+    },
+    {
+      "Route": "HomeImages/icon2.svg",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\icon2.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2876"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qlm/bebAEQyXjrfiB0THpc+5jJ2++s1PVCCCY1CGIJ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 13:26:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qlm/bebAEQyXjrfiB0THpc+5jJ2++s1PVCCCY1CGIJ8="
+        }
+      ]
+    },
+    {
+      "Route": "HomeImages/icon2.svg.gz",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\1xjph8xxva-ucbhjwibp1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1290"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bn9RlZaNrJkCsPEi+vjr6RIr4psKY3c75kpuT6hw+sI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 13:26:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bn9RlZaNrJkCsPEi+vjr6RIr4psKY3c75kpuT6hw+sI="
+        }
+      ]
+    },
+    {
+      "Route": "HomeImages/icon2.ucbhjwibp1.svg",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\1xjph8xxva-ucbhjwibp1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000774593338"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1290"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bn9RlZaNrJkCsPEi+vjr6RIr4psKY3c75kpuT6hw+sI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 13:26:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Qlm/bebAEQyXjrfiB0THpc+5jJ2++s1PVCCCY1CGIJ8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ucbhjwibp1"
+        },
+        {
+          "Name": "label",
+          "Value": "HomeImages/icon2.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qlm/bebAEQyXjrfiB0THpc+5jJ2++s1PVCCCY1CGIJ8="
+        }
+      ]
+    },
+    {
+      "Route": "HomeImages/icon2.ucbhjwibp1.svg",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\icon2.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2876"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qlm/bebAEQyXjrfiB0THpc+5jJ2++s1PVCCCY1CGIJ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 13:26:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ucbhjwibp1"
+        },
+        {
+          "Name": "label",
+          "Value": "HomeImages/icon2.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qlm/bebAEQyXjrfiB0THpc+5jJ2++s1PVCCCY1CGIJ8="
+        }
+      ]
+    },
+    {
+      "Route": "HomeImages/icon2.ucbhjwibp1.svg.gz",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\1xjph8xxva-ucbhjwibp1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1290"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bn9RlZaNrJkCsPEi+vjr6RIr4psKY3c75kpuT6hw+sI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 13:26:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ucbhjwibp1"
+        },
+        {
+          "Name": "label",
+          "Value": "HomeImages/icon2.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bn9RlZaNrJkCsPEi+vjr6RIr4psKY3c75kpuT6hw+sI="
+        }
+      ]
+    },
+    {
+      "Route": "HomeImages/icon3.svg",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\scpw9nx274-tgp99o4oe4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000859106529"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1163"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C3BT5SA9B6ZsDW2EU97OWnVzedfd51scJPYDSM4EySk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 13:26:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LTKtHWalHq0VcXNtvkAZ3KYsCGtQaQoA4mWhJWjkNYk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LTKtHWalHq0VcXNtvkAZ3KYsCGtQaQoA4mWhJWjkNYk="
+        }
+      ]
+    },
+    {
+      "Route": "HomeImages/icon3.svg",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\icon3.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2691"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTKtHWalHq0VcXNtvkAZ3KYsCGtQaQoA4mWhJWjkNYk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 13:26:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LTKtHWalHq0VcXNtvkAZ3KYsCGtQaQoA4mWhJWjkNYk="
+        }
+      ]
+    },
+    {
+      "Route": "HomeImages/icon3.svg.gz",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\scpw9nx274-tgp99o4oe4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1163"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C3BT5SA9B6ZsDW2EU97OWnVzedfd51scJPYDSM4EySk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 13:26:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C3BT5SA9B6ZsDW2EU97OWnVzedfd51scJPYDSM4EySk="
+        }
+      ]
+    },
+    {
+      "Route": "HomeImages/icon3.tgp99o4oe4.svg",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\scpw9nx274-tgp99o4oe4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000859106529"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1163"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C3BT5SA9B6ZsDW2EU97OWnVzedfd51scJPYDSM4EySk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 13:26:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LTKtHWalHq0VcXNtvkAZ3KYsCGtQaQoA4mWhJWjkNYk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tgp99o4oe4"
+        },
+        {
+          "Name": "label",
+          "Value": "HomeImages/icon3.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LTKtHWalHq0VcXNtvkAZ3KYsCGtQaQoA4mWhJWjkNYk="
+        }
+      ]
+    },
+    {
+      "Route": "HomeImages/icon3.tgp99o4oe4.svg",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\icon3.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2691"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTKtHWalHq0VcXNtvkAZ3KYsCGtQaQoA4mWhJWjkNYk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 13:26:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tgp99o4oe4"
+        },
+        {
+          "Name": "label",
+          "Value": "HomeImages/icon3.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LTKtHWalHq0VcXNtvkAZ3KYsCGtQaQoA4mWhJWjkNYk="
+        }
+      ]
+    },
+    {
+      "Route": "HomeImages/icon3.tgp99o4oe4.svg.gz",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\scpw9nx274-tgp99o4oe4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1163"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C3BT5SA9B6ZsDW2EU97OWnVzedfd51scJPYDSM4EySk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 13:26:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tgp99o4oe4"
+        },
+        {
+          "Name": "label",
+          "Value": "HomeImages/icon3.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-C3BT5SA9B6ZsDW2EU97OWnVzedfd51scJPYDSM4EySk="
         }
       ]
     },
@@ -5694,13 +7817,13 @@
       ]
     },
     {
-      "Route": "js/Home/IndexJavaScript.js",
-      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\dtxla0rrvz-rkoxtd4fsj.gz",
+      "Route": "js/Home/CoursesJavaScript.i6lt79ui3v.js",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\bjujbagr6x-i6lt79ui3v.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001618122977"
+          "Quality": "0.001639344262"
         }
       ],
       "ResponseHeaders": [
@@ -5710,15 +7833,176 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "617"
+          "Value": "609"
         },
         {
           "Name": "ETag",
-          "Value": "\"PcS/DYYhZw67QPwCvgrh21NHKKSZC24rqUD/6NIwfc4=\""
+          "Value": "\"DQulS/chtqDTr59A/9nRDMmR+zHaK4eKPK5aouXNbc0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 20:02:16 GMT"
+          "Value": "Sun, 26 Jan 2025 21:18:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"eps7zTyNj09KWSNLGocwj3VM7pp7keWG5OwR5R19OPY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i6lt79ui3v"
+        },
+        {
+          "Name": "label",
+          "Value": "js/Home/CoursesJavaScript.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eps7zTyNj09KWSNLGocwj3VM7pp7keWG5OwR5R19OPY="
+        }
+      ]
+    },
+    {
+      "Route": "js/Home/CoursesJavaScript.i6lt79ui3v.js",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\js\\Home\\CoursesJavaScript.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eps7zTyNj09KWSNLGocwj3VM7pp7keWG5OwR5R19OPY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 21:18:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i6lt79ui3v"
+        },
+        {
+          "Name": "label",
+          "Value": "js/Home/CoursesJavaScript.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eps7zTyNj09KWSNLGocwj3VM7pp7keWG5OwR5R19OPY="
+        }
+      ]
+    },
+    {
+      "Route": "js/Home/CoursesJavaScript.i6lt79ui3v.js.gz",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\bjujbagr6x-i6lt79ui3v.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "609"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DQulS/chtqDTr59A/9nRDMmR+zHaK4eKPK5aouXNbc0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 21:18:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i6lt79ui3v"
+        },
+        {
+          "Name": "label",
+          "Value": "js/Home/CoursesJavaScript.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DQulS/chtqDTr59A/9nRDMmR+zHaK4eKPK5aouXNbc0="
+        }
+      ]
+    },
+    {
+      "Route": "js/Home/CoursesJavaScript.js",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\bjujbagr6x-i6lt79ui3v.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001639344262"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "609"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DQulS/chtqDTr59A/9nRDMmR+zHaK4eKPK5aouXNbc0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 21:18:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5738,18 +8022,163 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"VXS8YX32ZfT1smnTL+mYxI4iwsxrHmEbJNFA8CUHzqg=\""
+          "Value": "W/\"eps7zTyNj09KWSNLGocwj3VM7pp7keWG5OwR5R19OPY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-VXS8YX32ZfT1smnTL+mYxI4iwsxrHmEbJNFA8CUHzqg="
+          "Value": "sha256-eps7zTyNj09KWSNLGocwj3VM7pp7keWG5OwR5R19OPY="
         }
       ]
     },
     {
-      "Route": "js/Home/IndexJavaScript.js",
+      "Route": "js/Home/CoursesJavaScript.js",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\js\\Home\\CoursesJavaScript.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eps7zTyNj09KWSNLGocwj3VM7pp7keWG5OwR5R19OPY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 21:18:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eps7zTyNj09KWSNLGocwj3VM7pp7keWG5OwR5R19OPY="
+        }
+      ]
+    },
+    {
+      "Route": "js/Home/CoursesJavaScript.js.gz",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\bjujbagr6x-i6lt79ui3v.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "609"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DQulS/chtqDTr59A/9nRDMmR+zHaK4eKPK5aouXNbc0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 21:18:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DQulS/chtqDTr59A/9nRDMmR+zHaK4eKPK5aouXNbc0="
+        }
+      ]
+    },
+    {
+      "Route": "js/Home/IndexJavaScript.0upsr77uy4.js",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\dtxla0rrvz-0upsr77uy4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001494768311"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "668"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u0AdAYJRVgh0ovMT6OyaAFdCnccQYMXYDee/QCAYMRQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 19:02:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"yNhJUiFGDSxAB5JO03XKLHeYywuR88X9C0pT/N3ONvU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0upsr77uy4"
+        },
+        {
+          "Name": "label",
+          "Value": "js/Home/IndexJavaScript.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yNhJUiFGDSxAB5JO03XKLHeYywuR88X9C0pT/N3ONvU="
+        }
+      ]
+    },
+    {
+      "Route": "js/Home/IndexJavaScript.0upsr77uy4.js",
       "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\js\\Home\\IndexJavaScript.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -5759,7 +8188,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2551"
+          "Value": "3161"
         },
         {
           "Name": "Content-Type",
@@ -5767,121 +8196,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VXS8YX32ZfT1smnTL+mYxI4iwsxrHmEbJNFA8CUHzqg=\""
+          "Value": "\"yNhJUiFGDSxAB5JO03XKLHeYywuR88X9C0pT/N3ONvU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 20:02:16 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-VXS8YX32ZfT1smnTL+mYxI4iwsxrHmEbJNFA8CUHzqg="
-        }
-      ]
-    },
-    {
-      "Route": "js/Home/IndexJavaScript.js.gz",
-      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\dtxla0rrvz-rkoxtd4fsj.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "617"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PcS/DYYhZw67QPwCvgrh21NHKKSZC24rqUD/6NIwfc4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 20:02:16 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-PcS/DYYhZw67QPwCvgrh21NHKKSZC24rqUD/6NIwfc4="
-        }
-      ]
-    },
-    {
-      "Route": "js/Home/IndexJavaScript.rkoxtd4fsj.js",
-      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\dtxla0rrvz-rkoxtd4fsj.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001618122977"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "617"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PcS/DYYhZw67QPwCvgrh21NHKKSZC24rqUD/6NIwfc4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 20:02:16 GMT"
+          "Value": "Sun, 26 Jan 2025 19:02:58 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"VXS8YX32ZfT1smnTL+mYxI4iwsxrHmEbJNFA8CUHzqg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rkoxtd4fsj"
+          "Value": "0upsr77uy4"
         },
         {
           "Name": "label",
@@ -5889,13 +8218,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-VXS8YX32ZfT1smnTL+mYxI4iwsxrHmEbJNFA8CUHzqg="
+          "Value": "sha256-yNhJUiFGDSxAB5JO03XKLHeYywuR88X9C0pT/N3ONvU="
         }
       ]
     },
     {
-      "Route": "js/Home/IndexJavaScript.rkoxtd4fsj.js",
-      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\js\\Home\\IndexJavaScript.js",
+      "Route": "js/Home/IndexJavaScript.0upsr77uy4.js.gz",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\dtxla0rrvz-0upsr77uy4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5904,7 +8233,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2551"
+          "Value": "668"
         },
         {
           "Name": "Content-Type",
@@ -5912,56 +8241,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VXS8YX32ZfT1smnTL+mYxI4iwsxrHmEbJNFA8CUHzqg=\""
+          "Value": "\"u0AdAYJRVgh0ovMT6OyaAFdCnccQYMXYDee/QCAYMRQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 20:02:16 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "rkoxtd4fsj"
-        },
-        {
-          "Name": "label",
-          "Value": "js/Home/IndexJavaScript.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-VXS8YX32ZfT1smnTL+mYxI4iwsxrHmEbJNFA8CUHzqg="
-        }
-      ]
-    },
-    {
-      "Route": "js/Home/IndexJavaScript.rkoxtd4fsj.js.gz",
-      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\dtxla0rrvz-rkoxtd4fsj.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "617"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PcS/DYYhZw67QPwCvgrh21NHKKSZC24rqUD/6NIwfc4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 20:02:16 GMT"
+          "Value": "Sun, 26 Jan 2025 19:02:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5979,7 +8263,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rkoxtd4fsj"
+          "Value": "0upsr77uy4"
         },
         {
           "Name": "label",
@@ -5987,18 +8271,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-PcS/DYYhZw67QPwCvgrh21NHKKSZC24rqUD/6NIwfc4="
+          "Value": "sha256-u0AdAYJRVgh0ovMT6OyaAFdCnccQYMXYDee/QCAYMRQ="
         }
       ]
     },
     {
-      "Route": "js/Home/preloader.0nfelwjmjh.js",
-      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\whn1x61p9j-0nfelwjmjh.gz",
+      "Route": "js/Home/IndexJavaScript.js",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\dtxla0rrvz-0upsr77uy4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003048780488"
+          "Quality": "0.001494768311"
         }
       ],
       "ResponseHeaders": [
@@ -6008,15 +8292,152 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "327"
+          "Value": "668"
         },
         {
           "Name": "ETag",
-          "Value": "\"L4xQ8OiDIypessFN/ATy3Lck7tdARILXV5Z88dnJbmY=\""
+          "Value": "\"u0AdAYJRVgh0ovMT6OyaAFdCnccQYMXYDee/QCAYMRQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 15:20:17 GMT"
+          "Value": "Sun, 26 Jan 2025 19:02:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"yNhJUiFGDSxAB5JO03XKLHeYywuR88X9C0pT/N3ONvU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yNhJUiFGDSxAB5JO03XKLHeYywuR88X9C0pT/N3ONvU="
+        }
+      ]
+    },
+    {
+      "Route": "js/Home/IndexJavaScript.js",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\js\\Home\\IndexJavaScript.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3161"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yNhJUiFGDSxAB5JO03XKLHeYywuR88X9C0pT/N3ONvU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 19:02:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yNhJUiFGDSxAB5JO03XKLHeYywuR88X9C0pT/N3ONvU="
+        }
+      ]
+    },
+    {
+      "Route": "js/Home/IndexJavaScript.js.gz",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\dtxla0rrvz-0upsr77uy4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "668"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u0AdAYJRVgh0ovMT6OyaAFdCnccQYMXYDee/QCAYMRQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 19:02:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u0AdAYJRVgh0ovMT6OyaAFdCnccQYMXYDee/QCAYMRQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/Home/preloader.3yfwev7yd8.js",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\whn1x61p9j-3yfwev7yd8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002695417790"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "370"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"thcOyeEBB3a7KzwYpAm9TerG/6lIS64OuLpSqHjFy5c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 14:14:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6036,13 +8457,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"VFQ43lF+j+K5oK4MQLRTK0p8IGpP7cmKkNwTszx5mlo=\""
+          "Value": "W/\"u7KiZvj43JtO7yg2KAPcaTaYsHuAIBOAkQRuYZEBQwo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "0nfelwjmjh"
+          "Value": "3yfwev7yd8"
         },
         {
           "Name": "label",
@@ -6050,12 +8471,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-VFQ43lF+j+K5oK4MQLRTK0p8IGpP7cmKkNwTszx5mlo="
+          "Value": "sha256-u7KiZvj43JtO7yg2KAPcaTaYsHuAIBOAkQRuYZEBQwo="
         }
       ]
     },
     {
-      "Route": "js/Home/preloader.0nfelwjmjh.js",
+      "Route": "js/Home/preloader.3yfwev7yd8.js",
       "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\js\\Home\\preloader.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -6065,7 +8486,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "466"
+          "Value": "589"
         },
         {
           "Name": "Content-Type",
@@ -6073,11 +8494,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VFQ43lF+j+K5oK4MQLRTK0p8IGpP7cmKkNwTszx5mlo=\""
+          "Value": "\"u7KiZvj43JtO7yg2KAPcaTaYsHuAIBOAkQRuYZEBQwo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 15:20:17 GMT"
+          "Value": "Sat, 25 Jan 2025 14:14:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6087,7 +8508,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "0nfelwjmjh"
+          "Value": "3yfwev7yd8"
         },
         {
           "Name": "label",
@@ -6095,13 +8516,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-VFQ43lF+j+K5oK4MQLRTK0p8IGpP7cmKkNwTszx5mlo="
+          "Value": "sha256-u7KiZvj43JtO7yg2KAPcaTaYsHuAIBOAkQRuYZEBQwo="
         }
       ]
     },
     {
-      "Route": "js/Home/preloader.0nfelwjmjh.js.gz",
-      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\whn1x61p9j-0nfelwjmjh.gz",
+      "Route": "js/Home/preloader.3yfwev7yd8.js.gz",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\whn1x61p9j-3yfwev7yd8.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6110,7 +8531,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "327"
+          "Value": "370"
         },
         {
           "Name": "Content-Type",
@@ -6118,11 +8539,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"L4xQ8OiDIypessFN/ATy3Lck7tdARILXV5Z88dnJbmY=\""
+          "Value": "\"thcOyeEBB3a7KzwYpAm9TerG/6lIS64OuLpSqHjFy5c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 15:20:17 GMT"
+          "Value": "Sat, 25 Jan 2025 14:14:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6140,7 +8561,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "0nfelwjmjh"
+          "Value": "3yfwev7yd8"
         },
         {
           "Name": "label",
@@ -6148,18 +8569,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-L4xQ8OiDIypessFN/ATy3Lck7tdARILXV5Z88dnJbmY="
+          "Value": "sha256-thcOyeEBB3a7KzwYpAm9TerG/6lIS64OuLpSqHjFy5c="
         }
       ]
     },
     {
       "Route": "js/Home/preloader.js",
-      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\whn1x61p9j-0nfelwjmjh.gz",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\whn1x61p9j-3yfwev7yd8.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003048780488"
+          "Quality": "0.002695417790"
         }
       ],
       "ResponseHeaders": [
@@ -6169,15 +8590,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "327"
+          "Value": "370"
         },
         {
           "Name": "ETag",
-          "Value": "\"L4xQ8OiDIypessFN/ATy3Lck7tdARILXV5Z88dnJbmY=\""
+          "Value": "\"thcOyeEBB3a7KzwYpAm9TerG/6lIS64OuLpSqHjFy5c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 15:20:17 GMT"
+          "Value": "Sat, 25 Jan 2025 14:14:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6197,13 +8618,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"VFQ43lF+j+K5oK4MQLRTK0p8IGpP7cmKkNwTszx5mlo=\""
+          "Value": "W/\"u7KiZvj43JtO7yg2KAPcaTaYsHuAIBOAkQRuYZEBQwo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-VFQ43lF+j+K5oK4MQLRTK0p8IGpP7cmKkNwTszx5mlo="
+          "Value": "sha256-u7KiZvj43JtO7yg2KAPcaTaYsHuAIBOAkQRuYZEBQwo="
         }
       ]
     },
@@ -6218,7 +8639,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "466"
+          "Value": "589"
         },
         {
           "Name": "Content-Type",
@@ -6226,11 +8647,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VFQ43lF+j+K5oK4MQLRTK0p8IGpP7cmKkNwTszx5mlo=\""
+          "Value": "\"u7KiZvj43JtO7yg2KAPcaTaYsHuAIBOAkQRuYZEBQwo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 15:20:17 GMT"
+          "Value": "Sat, 25 Jan 2025 14:14:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6240,13 +8661,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-VFQ43lF+j+K5oK4MQLRTK0p8IGpP7cmKkNwTszx5mlo="
+          "Value": "sha256-u7KiZvj43JtO7yg2KAPcaTaYsHuAIBOAkQRuYZEBQwo="
         }
       ]
     },
     {
       "Route": "js/Home/preloader.js.gz",
-      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\whn1x61p9j-0nfelwjmjh.gz",
+      "AssetFile": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\obj\\Debug\\net9.0\\compressed\\whn1x61p9j-3yfwev7yd8.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6255,7 +8676,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "327"
+          "Value": "370"
         },
         {
           "Name": "Content-Type",
@@ -6263,11 +8684,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"L4xQ8OiDIypessFN/ATy3Lck7tdARILXV5Z88dnJbmY=\""
+          "Value": "\"thcOyeEBB3a7KzwYpAm9TerG/6lIS64OuLpSqHjFy5c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 15:20:17 GMT"
+          "Value": "Sat, 25 Jan 2025 14:14:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6285,7 +8706,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-L4xQ8OiDIypessFN/ATy3Lck7tdARILXV5Z88dnJbmY="
+          "Value": "sha256-thcOyeEBB3a7KzwYpAm9TerG/6lIS64OuLpSqHjFy5c="
         }
       ]
     },
