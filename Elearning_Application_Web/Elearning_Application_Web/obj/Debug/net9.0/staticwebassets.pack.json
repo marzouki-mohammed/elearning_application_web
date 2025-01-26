@@ -5,8 +5,48 @@
       "PackagePath": "staticwebassets\\Elearning_Application_Web.wzbywwq2im.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\course-1.jpg",
+      "PackagePath": "staticwebassets\\HomeImages\\course-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\course-2.jpg",
+      "PackagePath": "staticwebassets\\HomeImages\\course-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\course-3.jpg",
+      "PackagePath": "staticwebassets\\HomeImages\\course-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\h1_hero.png",
+      "PackagePath": "staticwebassets\\HomeImages\\h1_hero.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\hero1.jpg",
+      "PackagePath": "staticwebassets\\HomeImages\\hero1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\hero2.jpg",
+      "PackagePath": "staticwebassets\\HomeImages\\hero2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\hero3.jpg",
+      "PackagePath": "staticwebassets\\HomeImages\\hero3.jpg"
+    },
+    {
       "Id": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\ic_github.png",
       "PackagePath": "staticwebassets\\HomeImages\\ic_github.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\icon1.svg",
+      "PackagePath": "staticwebassets\\HomeImages\\icon1.svg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\icon2.svg",
+      "PackagePath": "staticwebassets\\HomeImages\\icon2.svg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\icon3.svg",
+      "PackagePath": "staticwebassets\\HomeImages\\icon3.svg"
     },
     {
       "Id": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\HomeImages\\loder.png",
@@ -25,6 +65,10 @@
       "PackagePath": "staticwebassets\\css\\Auth\\page_auth.css"
     },
     {
+      "Id": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\css\\Home\\CoursesStyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\Home\\CoursesStyleSheet.css"
+    },
+    {
       "Id": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\css\\Home\\IndexStyleSheet.css",
       "PackagePath": "staticwebassets\\css\\Home\\IndexStyleSheet.css"
     },
@@ -39,6 +83,10 @@
     {
       "Id": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\js\\Home\\CoursesJavaScript.js",
+      "PackagePath": "staticwebassets\\js\\Home\\CoursesJavaScript.js"
     },
     {
       "Id": "C:\\Users\\hp\\elearning_application_web\\Elearning_Application_Web\\Elearning_Application_Web\\wwwroot\\js\\Home\\IndexJavaScript.js",

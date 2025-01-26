@@ -1,9 +1,19 @@
-﻿const open_menu = document.getElementById('open-menu');
+﻿
+
+
+
+
+
+
+
+
+
+
+
+
+const open_menu = document.getElementById('open-menu');
 const mobile_navigation_menu = document.querySelector('.mobile-navigation-menu');
 const close_menu_cat = document.getElementById('close-menu-cat');
-const search_btn = document.getElementById('search-btn');
-const search_navigation = document.querySelector('.search-navigation');
-const close_search = document.getElementById('close-search');
 const menu_profile = document.querySelector('.menu-profile');
 const profile_down = document.getElementById('profile-down');
 const profile_up = document.getElementById('profile-up');
@@ -35,13 +45,8 @@ window.addEventListener('click', function (event) {
     mobile_navigation_menu.classList.remove('active');
 });
 
-search_btn.addEventListener('click', function (event) {
-    search_navigation.classList.toggle('activeSearch');
-    event.stopPropagation();
-});
-close_search.addEventListener('click', function (event) {
-    search_navigation.classList.remove('activeSearch');
-});
+
+
 // Add event listener
 btn_profile.addEventListener('click', function (event) {
     if (profile_up.style.display === 'block' || profile_up.style.display === '') {
