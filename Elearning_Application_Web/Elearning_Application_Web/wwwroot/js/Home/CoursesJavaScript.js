@@ -23,6 +23,11 @@ const profile_down_mobile = document.getElementById('profile-down-mobile');
 const profile_up_mobile = document.getElementById('profile-up-mobile');
 const btn_profile_mobile = document.getElementById('btn-profile-mobile');
 
+
+
+const filter_btn = document.getElementById('filter-btn');
+const menu_filter = document.querySelector('.menu-filter');
+
 // Ouvrir ou fermer le menu
 open_menu.addEventListener('click', function (event) {
     mobile_navigation_menu.classList.toggle('active');
@@ -40,9 +45,21 @@ mobile_navigation_menu.addEventListener('click', function (event) {
     event.stopPropagation(); // Empêche la propagation du clic
 });
 
+
+filter_btn.addEventListener('click', function (event) {
+    menu_filter.classList.toggle('activefilter');
+    event.stopPropagation();
+});
+menu_filter.('click', function (event) {
+    event.stopPropagation(); // Empêche la propagation du clic
+});
+
+
+
 // Fermer le menu si un clic se produit hors du menu
 window.addEventListener('click', function (event) {
     mobile_navigation_menu.classList.remove('active');
+    menu_filter.classList.remove('activefilter');
 });
 
 
@@ -74,3 +91,6 @@ btn_profile_mobile.addEventListener('click', function (event) {
     // Prevent event propagation
     event.stopPropagation();
 });
+
+
+
