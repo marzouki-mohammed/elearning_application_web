@@ -109,6 +109,6 @@ C:\Users\hp\elearning_application_web\Elearning_Application_Web\Elearning_Applic
 C:\Users\hp\elearning_application_web\Elearning_Application_Web\Elearning_Application_Web\obj\Debug\net9.0\compressed\whn1x61p9j-3yfwev7yd8.gz
 C:\Users\hp\elearning_application_web\Elearning_Application_Web\Elearning_Application_Web\obj\Debug\net9.0\compressed\imul8xh9rf-hoybpr153m.gz
 C:\Users\hp\elearning_application_web\Elearning_Application_Web\Elearning_Application_Web\obj\Debug\net9.0\compressed\dtxla0rrvz-0upsr77uy4.gz
-C:\Users\hp\elearning_application_web\Elearning_Application_Web\Elearning_Application_Web\obj\Debug\net9.0\compressed\bjujbagr6x-i6lt79ui3v.gz
-C:\Users\hp\elearning_application_web\Elearning_Application_Web\Elearning_Application_Web\obj\Debug\net9.0\compressed\5kt1h98ykv-pid0eq4lue.gz
 C:\Users\hp\elearning_application_web\Elearning_Application_Web\Elearning_Application_Web\obj\Debug\net9.0\compressed\2hb18geb3l-5pgu2youvp.gz
+C:\Users\hp\elearning_application_web\Elearning_Application_Web\Elearning_Application_Web\obj\Debug\net9.0\compressed\5kt1h98ykv-sckia1rm6l.gz
+C:\Users\hp\elearning_application_web\Elearning_Application_Web\Elearning_Application_Web\obj\Debug\net9.0\compressed\bjujbagr6x-9snoaicuz6.gz

@@ -30,8 +30,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>pid0eq4lue</Fingerprint>
-      <Integrity>cTpJqSl7Hs9OvNZ8Jy1sdakApXvtTEWCHwM5TSOJHhI=</Integrity>
+      <Fingerprint>sckia1rm6l</Fingerprint>
+      <Integrity>dKo9w1b4KHO17RrZiX2c5kkXqO3sYemhdWMhJI64mwk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Home\CoursesStyleSheet.css'))</OriginalItemSpec>
@@ -390,8 +390,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>i6lt79ui3v</Fingerprint>
-      <Integrity>eps7zTyNj09KWSNLGocwj3VM7pp7keWG5OwR5R19OPY=</Integrity>
+      <Fingerprint>9snoaicuz6</Fingerprint>
+      <Integrity>aaA8dzkhaF9uvrtA/5cZEPBbMNbT7XUdhtRrCWVXXd8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\Home\CoursesJavaScript.js'))</OriginalItemSpec>
